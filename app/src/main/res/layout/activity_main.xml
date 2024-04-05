@@ -9,8 +9,8 @@
 
     <TextView
         android:id="@+id/resultsTxt"
-        android:layout_width="280dp"
-        android:layout_height="59dp"
+        android:layout_width="298dp"
+        android:layout_height="142dp"
         android:background="#16673AB7"
         android:text="Please Enter Valid Age"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
