@@ -54,3 +54,8 @@ Later versions of the app will follow to counteract any app bugs that may follow
 WELCOME TO THE FUTURE’S PAST WITH THE HISTORY APP
 
 NOW AVAVILABLE FOR FREE DOWNLOAD ON THE GOOGLE PLAY STORE
+
+References:
+Hearst Magazine Media,Inc..2024. Famous Historical People, 02 January 2024.[Online]. Available at https://www.biography.com [Accessed 29 March 2024]
+IIE,Introduction to Mobile Application Development Module Manual,2024
+OpenAI,ChatGPT Version 3.5.Create a report on an History App containing a minimum of 1200 words.chat.openai.com [Generated 04 April 2024]
